@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Asking-Madamji/static/css/main.887317f5.css",
+    "main.js": "/Asking-Madamji/static/js/main.6213700c.js",
+    "static/js/592.0db8293a.chunk.js": "/Asking-Madamji/static/js/592.0db8293a.chunk.js",
+    "static/media/flowerBear.gif": "/Asking-Madamji/static/media/flowerBear.7cb1db98af7339613d26.gif",
+    "static/media/kisses.gif": "/Asking-Madamji/static/media/kisses.419e28a9183f3abead95.gif",
+    "static/media/madBear.gif": "/Asking-Madamji/static/media/madBear.960144df23faee67bea0.gif",
+    "index.html": "/Asking-Madamji/index.html",
+    "main.887317f5.css.map": "/Asking-Madamji/static/css/main.887317f5.css.map",
+    "main.6213700c.js.map": "/Asking-Madamji/static/js/main.6213700c.js.map",
+    "592.0db8293a.chunk.js.map": "/Asking-Madamji/static/js/592.0db8293a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887317f5.css",
+    "static/js/main.6213700c.js"
+  ]
+}
